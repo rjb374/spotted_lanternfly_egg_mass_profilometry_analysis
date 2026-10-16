@@ -1,6 +1,6 @@
 # Egg Mass Surface Analysis
 
-MATLAB code and supporting KEYENCE VR-series CSV height-map data used to quantify egg-mass surface structure for the associated manuscript.
+MATLAB code and supporting KEYENCE VR-6000 CSV height-map data used to quantify egg-mass surface structure for the associated manuscript.
 
 ## Repository contents
 
